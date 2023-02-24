@@ -1,5 +1,6 @@
 # Collective API
 
+This is an example Express server 
 This app contains all of the endpoints needed for:
 
 - React Curriculum Checkpoints
